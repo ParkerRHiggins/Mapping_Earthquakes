@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 
-For this analysis project, I created an interactive world map by using the JavaScript and Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data, over the past seven days, from the USGS website. 
+For this analysis project, I created an interactive world map by using JavaScript and the Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data, over the past seven days, from the USGS website. 
 
 Each earthquake is visually represented by a circle and color, where a higher magnitude has a larger diameter and is darker in color. In addition, each earthquake has a popup marker that, when clicked, shows the magnitude of the earthquake and the location of the earthquake.
 
